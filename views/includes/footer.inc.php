@@ -8,7 +8,7 @@
               <div class="header-left d-flex align-items-center justify-content-between">
                 <!-- Logo-->
                 <div class="logo">
-                  <a href="acceuil"><img src="./public/assets/images/logo/dark.png" alt="logo"></a>
+                  <a href="acceuil"><img src="./public/assets/images/logo/<?php echo $logo2; ?>" alt="logo"></a>
                 </div>
               </div>
               <!-- Footer-menu -->

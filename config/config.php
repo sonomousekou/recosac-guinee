@@ -12,5 +12,8 @@ $lien_twiter ='';
 $lien_linkedin ='';
 $lien_youtube ='https://www.youtube.com/@RECOSACGUINEE';
 
+$logo1 = 'logo.jpg';
+$logo2 = 'logo.jpg';
+$favicon = 'favicon.jpg';
 
 ?>
